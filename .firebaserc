@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "weather-app-fabdb": {
+      "hosting": {
+        "ang_weather": [
+          "weather-app-fabdb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "weather-app-fabdb"
+  }
+}

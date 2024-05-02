@@ -1,0 +1,10 @@
+{
+  "hosting": [
+    {
+      "target": "ang_weather",
+     
+      "frameworksBackend": {},
+      "public" : "dist/ang_weather"
+    }
+  ]
+}
